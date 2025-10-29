@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+main*
+*.data
+*build/
+*vscode*
+*.bin
